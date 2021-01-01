@@ -1035,7 +1035,7 @@ And the rest:
 
 Rather than rehashing everything about JS hooks let's instead defer to the [JavaScript Hooks](http://cssguidelin.es/#javascript-hooks) section in [Harry Roberts](http://csswizardry.com/) excellent [CSS Guidelines](http://cssguidelin.es/).
 
-JS hooks—and [Server-side](#server-side-hooks), [QA](#qa-hooks), and [Tracking hooks](#tracking-hooks)—should always be scoped to the component it is part off to avoid clashing with other hooks of the same category, and to keep them highly readable—not much different to how we structure our classes for styling.
+JS hooks—and [Server-side](#server-side-hooks), [QA](#qa-hooks), and [Tracking hooks](#tracking-hooks)—should always be scoped to the component it is part of to avoid clashing with other hooks of the same category, and to keep them highly readable—not much different to how we structure our classes for styling.
 
 ###### :heavy_multiplication_x: NOT GOOD
 
